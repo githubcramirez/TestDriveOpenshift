@@ -78,7 +78,7 @@
 
      - debug: var=master_instance_creation
 
-     - name: Getting OpenShift's Master Public IP{{ ':' }} {{ master_instance_creation.instance_data[0].public_ip }}
+     - name: Getting OpenShift's Master Public IP{{ ':' }} "{{ master_instance_creation.instance_data[0].public_ip }}"
        set_fact: openshift_master_public_ip={{ master_instance_creation.instance_data[0].public_ip }}
 
      - name: Attaching a Docker storage{{ ':' }} {{ openshift_master }}
