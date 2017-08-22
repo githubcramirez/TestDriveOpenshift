@@ -1,5 +1,5 @@
 gce_service_account_email: cramirez@cramirezopenshift.iam.gserviceaccount.com 
-gce_credentials_file: /var/lib/awx/projects/Creacion_OPS_Google/cramirezopenshift-e20e028f43fa.json 
+gce_credentials_file: /var/lib/awx/projects/_37__testdrive_openshift/cramirezopenshift-e20e028f43fa.json 
 gce_project_id: cramirezopenshift
 redhat_subscription_username: cramirez@redhat.com
 redhat_subscription_password: al200201412
