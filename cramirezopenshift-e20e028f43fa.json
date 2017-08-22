@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cramirezopenshift",
+  "private_key_id": "e20e028f43fad81f999b33a3e690c83f44c63d1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLTytW1wQ7bK0b\nXPI7LOQjmLULmGKWJ2jA1q1lXJFMN0sjehPuc3Nq10re3NJdWhuNFf/IhGViH1cU\nLWom/rrOxVvcg+hjbFQO0v/8BW4xwENP2xjOMroD5YOFLJHmJfjePoUYkh3RyDWg\np12JRlUypQQIXjq6qh41upduZqd8vO1eZcQKv7ClNXWw4G3FFmVjHrswGDzticSg\nCtVYzal/UHHvUUpKLnuhhZJbrHj7YZQPiYTah1jeOKmAPMv8OEfG2Wq8xNb0gTPK\nD5N82zIehJqSfnlG6sxezpEzwp+rXTfIMxGXNhra+j+iXTCpGMgv+XmT2DT3aTCZ\n+aCzXs5dAgMBAAECggEART2+btVEVzz29YjHJT50znSSWAcPyU4hNOf/G0hdN6Ks\nCCAfU/+yOEJ2Bjt/m8KzuvZaQhH8Sj8FixPflS47L5bMx9gQY4puZUfe0Cbq1HOZ\ngVGHDMYNyu4C5uh2RAxPnDc69DF7/M8kSIunZBm/MwLt9DLRwgHYLiBmMAt55/dL\nscPwpKiWUoQQN238qi3cbuhEb+lxJINEWjM/LKT3vmcnCw+gcrCWhdvOFa4GSI0x\nFkr5AYuL5tp3nfaRHkVAXk9Ru+t99zSsMug1Ue5SP9XohAH4qD0LdHNoxjJbMvgS\njr5wQWg3SFRDybdt8ewDhjH58cYHEheFLbXjAtY3SQKBgQDD08UkBHl56HJnDuQr\nspPyKONkIlESXKSMgMszLWH0LgmZB6GPWw4LDG+nrvko5r8wR2Kmv5qwJ4DHHFdg\n2VeaofrHow+3f9sLsCfatdxnN0Xj5kNE5dyTT9mxEKsG6StBmEaZN/gfkvRhmb0M\nL8nOwE0kjv1SJGYmABUmr2ULuwKBgQC2HZAOF+Z3qPRDv4CWcg4106JwoC1LPoOK\nWO/ehx5nYGf8PM9n7K6ptshVMy7rfwizkhzYUR2wISh4FerdOh8qk9t6OUaEC7XV\nDN8nVkiuh+3vipc+jAv6RMzA4IBo0uS6Ey7rFWkjT5pCtT9WblJnvnC2YOp4wgQZ\nqkMoElUQxwKBgCD53EzAZCRfPESWgV3KaJdywzftf3F0IFF4rr8jeUdBKWSXoGEf\nmDHMGlFGaba1hKSAoOAri8T2If1ljGFGuDXV6QENOGxSH3TMaSmvTjojWKWT9Of5\nPTehTqs+f05enWYiWmEax7GpcXWuCeOveHBUeakaWxYmAv2LLgShrIZZAoGBALMr\ngJetAexGCBNDLCJXkg146n69x/IYTdflyhB3hP0VxxhNR4yqOej00EGqeoXsVEY/\nASv9GiU3ahZDEe+XCCSelTa5dNvinYE/Caks5ZL4XqnmAwjhRcNyvrMf7JW0rp02\n1FkqlmbMIStyIB9LqL0yireTv/sQfnI1pZ6d8pzvAoGAYJ/zIxad9jxri0M6YcYT\nGYCW6mUdVMSMx3dmyxDJsMi2R9G85vAPJhir+9j+qGjeYgKMM5D1LfKkyEkWLd8o\noyRKn+/U7u2g7BhiNz1PzpDqY0E1hf/8d99XfFz0AmnIhFWNyW77Fuq1BYVjMxkY\nR2b2kSnX9N5BCCcdUHFFO8k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cramirez@cramirezopenshift.iam.gserviceaccount.com",
+  "client_id": "112063040006826280564",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cramirez%40cramirezopenshift.iam.gserviceaccount.com"
+}

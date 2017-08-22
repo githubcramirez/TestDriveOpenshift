@@ -1,0 +1,19 @@
+gce_service_account_email: cramirez@cramirezopenshift.iam.gserviceaccount.com 
+gce_credentials_file: /var/lib/awx/projects/Creacion_OPS_Google/cramirezopenshift-e20e028f43fa.json 
+gce_project_id: cramirezopenshift
+redhat_subscription_username: cramirez@redhat.com
+redhat_subscription_password: al200201412
+redhat_subscription_pool_id: 8a85f98159eeb53d0159ef8620fd4684
+### Please add the following information in each task in your playbook
+### project_id="{{ gce_project_id }}" credentials_file="{{ gce_credentials_file }}" service_account_email="{{ gce_service_account_email }}"
+###
+### Example:
+### 
+###    - name: Create a Network named maltron
+###      gce_net: name="maltron"
+###               mode="custom" subnet_name="maltron-subnet" subnet_region="{{ region }}" ipv4_range="192.168.0.0/16"
+###               project_id="{{ gce_project_id }}" credentials_file="{{ gce_credentials_file }}" service_account_email="{{ gce_service_account_email }}"
+#service_account_email="{{ gce_service_account_email }}"
+#ipv4_range="192.168.0.0/16"
+#credentials_file="{{ gce_credentials_file }}" 
+#service_account_email="{{ gce_service_account_email }}"

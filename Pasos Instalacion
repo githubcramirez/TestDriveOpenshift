@@ -1,0 +1,73 @@
+yum install git
+git clone https://github.com/latam-tech-office/testdrive-openshift .
+git clone https://github.com/latam-tech-office/testdrive-openshift /tmp
+mkdir /tmp/git_openshift
+git clone https://github.com/latam-tech-office/testdrive-openshift /tmp/git_openshift/
+cd /tmp/git_openshift/
+
+cd gce
+more authentication 
+vi authentication 
+
+vi defaults
+
+cd ..
+cd notifications
+vi mail_authentication
+vi slack_authentication 
+
+yum install pip
+yum install phyton-pip
+yum -y install python-pip
+
+pip install apache-libcloud
+pip install --upgrade pip
+pip install apache-libcloud
+
+vi ops-attendees.txt 
+ansible-playbook create-ops.yaml -e email=cramirez@redhat.com
+more /etc/ansible/hosts 
+vi /etc/ansible/hosts 
+
+cd gce
+
+
+ansible-playbook create-ops.yaml -e email=cramirez@redhat.com
+ansible-playbook delete-ops.yaml -e email=cramirez@redhat.com
+ansible-playbook create-ops.yaml -e email=cramirez@redhat.com
+
+
+ssh-keygen -t rsa
+cd /root
+cd .ssh
+ll
+cd id_rsa
+ssh-keygen -t rsa
+chmod 755 ~/.sshA
+chmod 644 ~/.ssh/authorized_keys
+
+create-repository.yaml 
+more create-repository.yaml 
+ll
+cd commons/
+ll
+more setting_defaults.yaml 
+ll
+more ops-mail.yaml 
+
+
+
+
+rm -rf systemd-private-*
+ll
+cd git_openshift/
+ll
+cd ..
+cd firefox_cramirez/
+
+
+
+
+
+
+
